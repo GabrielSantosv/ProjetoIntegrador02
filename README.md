@@ -38,5 +38,5 @@ O sistema classifica o aluno de acordo com o tempo acumulado na academia. Exempl
 - **Intermediário:** de 11 a 30 horas
 - **Avançado:** mais de 30 horas
 
-## 📁 Estrutura do Projeto
+
 
